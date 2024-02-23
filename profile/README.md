@@ -2,5 +2,5 @@
 
 Just starting something here.
 
-* [Matric room](https://matrix.to/#/#opensource-vdi:matrix.org)
+* [Matrix room](https://matrix.to/#/#opensource-vdi:matrix.org)
 
