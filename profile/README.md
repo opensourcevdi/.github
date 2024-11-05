@@ -1,8 +1,3 @@
-# Open source Virtual desktop infrastructure
+# Open source VDI
 
-This project is part of the [Computation center University Freiburg ](https://www.rz.uni-freiburg.de/en?set_language=en)
-
-We are just starting something here...
-
-* Join our [Matrix room](https://matrix.to/#/#opensource-vdi:matrix.org)
-
+We moved to the [GitLab of the University Freiburg](https://gitlab.uni-freiburg.de/opensourcevdi).
